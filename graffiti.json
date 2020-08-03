@@ -2,5 +2,14 @@
   "latest": "2.0",
   "updateurl": "https://github.com/GORYCHsamp/graffitiupd/raw/master/graffiti.luac",
   "comment": "",
-  "scriptId" : "2"
+  "scriptId": "2",
+  "galaxy1": [
+    "Тут может быть ваша реклама для GalaxY l"
+  ],
+  "galaxy2": [
+    "Тут может быть ваша реклама для GalaxY ll"
+  ],
+  "galaxy3": [
+    "Тут может быть ваша реклама для GalaxY lll"
+  ]
 }
